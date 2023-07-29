@@ -12,6 +12,7 @@
     <li>Converting a retail store's spreadsheet record system into a fully functioning PostgreSQL database</li>
     <li>Cleansing Covid-19 data from an international country into a modellable format</li>
     <li>Currently, I am building a classification model that predicts if the home team of a single NFL game will win or not</li>
+    <li>I am also working on integrating a LLM that will answer questions for students regarding their university's student handbook.</li>
   </ul>
 </p>
 
