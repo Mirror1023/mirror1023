@@ -3,7 +3,7 @@
 </p>
 
 <p style="font-size: 18px;">
-  My name is <b>IVIirror</b> and I am currently a Senior Data Analyst at an Energy company based in the United States. I have a background in data analysis, database management, and machine learning, and I am always seeking new opportunities to apply these skills to solve complex problems.
+  My name is <b>IVIirror</b> and I am currently a Data Strategist at an Energy company based in the United States. I have a background in data analysis, database management, and machine learning, and I am always seeking new opportunities to apply these skills to solve complex problems.
 </p>
 
 <p style="font-size: 18px;">
