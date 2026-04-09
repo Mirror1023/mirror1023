@@ -6,7 +6,9 @@ I don't write every line of code in these projects. Claude Code does a lot of th
 
 **What I'm building:**
 
-[Sovereign RCM](https://github.com/Mirror1023/sov_rcm02) is an air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
+[Sovereign RCM](https://sovereignrcm.com) ([repo](https://github.com/Mirror1023/sov_rcm02)) is an air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
+
+[AssociationPay](https://imtiazhoa.vercel.app) lets homeowners pay HOA dues online. Stripe integration, no account required. Serves 10 communities.
 
 ClinicalTrialOps turns trial protocols and submissions into compliant documents. 2,200+ tests. Not public yet.
 
