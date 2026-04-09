@@ -10,6 +10,8 @@ I don't write every line of code in these projects. Claude Code does a lot of th
 
 [AssociationPay](https://imtiazhoa.vercel.app) lets homeowners pay HOA dues online. Stripe integration, no account required. Serves 10 communities.
 
+[CatGram Agent](https://github.com/Mirror1023/cat_agent) runs [@catmanduig](https://www.instagram.com/catmanduig/) on Instagram. Claude writes the captions and replies to comments. 269+ posts so far, zero manual effort.
+
 ClinicalTrialOps turns trial protocols and submissions into compliant documents. 2,200+ tests. Not public yet.
 
 RizCommerce coordinates 18 AI agents for Amazon seller operations: supplier discovery, margin analysis, demand forecasting, listing generation. Next.js, FastAPI, Temporal. Also not public.
