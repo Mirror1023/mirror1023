@@ -14,8 +14,6 @@ ClinicalTrialOps turns trial protocols and submissions into compliant documents.
 
 RizCommerce coordinates 18 AI agents for Amazon seller operations: supplier discovery, margin analysis, demand forecasting, listing generation. Next.js, FastAPI, Temporal. Also not public.
 
-[REAP](https://github.com/Mirror1023/reap-pruner) reproduces expert pruning methods from an arXiv paper. Compresses Mixture-of-Experts models by ~50% without much quality loss.
-
 **Home lab:**
 
 DGX Spark (128GB), Minisforum NAS, air-gapped VLANs. Ollama for inference. Grafana and Prometheus for monitoring. Everything in containers.
