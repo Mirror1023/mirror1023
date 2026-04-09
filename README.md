@@ -1,21 +1,29 @@
-<p style="font-size: 24px;">
-  <b>Hi there!</b>
-</p>
+### IVIirror
 
-<p style="font-size: 18px;">
-  My name is <b>IVIirror</b> and I am currently a Data Strategist at an Energy company based in the United States. I have a background in data analysis, database management, and machine learning, and I am always seeking new opportunities to apply these skills to solve complex problems.
-</p>
+Data Strategist. Energy sector. I spend most of my time now building with LLMs, not just analyzing data.
 
-<p style="font-size: 18px;">
-  I have a passion for using data to drive decision-making, particularly in the areas of safety analytics and sports analytics. I have experience working with a variety of tools, including Python, SQL, Tableau, and Power BI. Some of the projects I have worked on include:
-  <ul style="font-size: 16px;">
-    <li>Converting a retail store's spreadsheet record system into a fully functioning PostgreSQL database</li>
-    <li>Cleansing Covid-19 data from an international country into a modellable format</li>
-    <li>Currently, I am building a classification model that predicts if the home team of a single NFL game will win or not</li>
-    <li>I am also working on integrating a LLM that will answer questions for students regarding their university's student handbook.</li>
-  </ul>
-</p>
+I don't write every line of code in these projects. Claude Code does a lot of the work. I bring the domain knowledge, the architecture decisions, and the stubbornness to keep going when things break at 2am. Take the repos below with that context.
 
-<p style="font-size: 18px;">
-  In my free time, I enjoy playing sports, video gaming spending time with loved ones. I am excited to connect with other developers and data professionals in the Github community and to collaborate on meaningful projects. Thanks for stopping by!
-</p>
+**What I'm building:**
+
+[Sovereign RCM](https://github.com/Mirror1023/sov_rcm02) is an air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
+
+[lmkb](https://github.com/Mirror1023/lmkb) is a CLI for building research wikis with LLMs. You feed it papers and articles, it compiles an Obsidian vault you can query. I built it because I had too much research and no good way to search it.
+
+ClinicalTrialOps turns trial protocols and submissions into compliant documents. 2,200+ tests. Not public yet.
+
+RizCommerce coordinates 18 AI agents for Amazon seller operations: supplier discovery, margin analysis, demand forecasting, listing generation. Next.js, FastAPI, Temporal. Also not public.
+
+[REAP](https://github.com/Mirror1023/reap-pruner) reproduces expert pruning methods from an arXiv paper. Compresses Mixture-of-Experts models by ~50% without much quality loss.
+
+**Home lab:**
+
+DGX Spark (128GB), Minisforum NAS, air-gapped VLANs. Ollama for inference. Grafana and Prometheus for monitoring. Everything in containers.
+
+**Older stuff:**
+
+[NFL Game Predictor](https://github.com/Mirror1023/NFL_Game_Predictor): classification model for home team wins. [Retail Database](https://github.com/Mirror1023/Retail_Database): moved a convenience store off spreadsheets onto PostgreSQL.
+
+**Tools:** Python, SQL, FastAPI, React, Next.js, Docker, PostgreSQL, Ollama, Claude Code
+
+Sports, video games, family.
