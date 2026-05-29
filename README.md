@@ -9,11 +9,9 @@
 
 <br>
 
-# IVIirror
-
 **Data Strategist · Energy sector**
 
-`Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI` &nbsp;·&nbsp; `Princeton, NJ`
+`Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI`
 
 </div>
 
@@ -25,25 +23,22 @@ I don't write every line of code in these projects. Claude Code does a lot of th
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+**Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white) ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+**AI / LLMs**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Design](https://img.shields.io/badge/Claude_Design-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logoColor=white) ![Gemma](https://img.shields.io/badge/Gemma-1A73E8?style=for-the-badge&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![Seedance](https://img.shields.io/badge/Seedance-4B2E83?style=for-the-badge&logoColor=white)
 
 </div>
 
 ## 🚀 What I'm building
 
-**[Sovereign RCM](https://sovereignrcm.com)** &nbsp;<img src="assets/sovereign-rcm-logo.png" height="20" align="center">&nbsp; · &nbsp;[repo](https://github.com/Mirror1023/sov_rcm02)
+**[Sovereign RCM](https://sovereignrcm.com)** &nbsp;·&nbsp; [repo](https://github.com/Mirror1023/sov_rcm02)
 An air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
 
-**[AssociationPay](https://imtiazhoa.vercel.app)**
+**[AssociationPay](https://rb-mgt.com)**
 Lets homeowners pay HOA dues online. Stripe integration, no account required. Serves 10 communities.
 
 **[CatGram Agent](https://github.com/Mirror1023/cat_agent)**
@@ -65,8 +60,15 @@ Daily drivers are a Mac Studio (M4) and a MacBook Pro (M5 Pro). Deep expertise w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirror1023&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4A265&icon_color=C4A265&text_color=888888" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirror1023&layout=compact&hide_border=true&bg_color=00000000&title_color=C4A265&text_color=888888" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirror1023&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mirror1023&theme=default" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirror1023&theme=github_dark">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mirror1023&theme=default" />
+</picture>
 
 <img src="https://streak-stats.demolab.com?user=Mirror1023&hide_border=true&background=00000000&ring=C4A265&fire=C4A265&currStreakLabel=C4A265&sideLabels=888888&dates=888888" />
 
