@@ -9,7 +9,7 @@
 
 <br>
 
-**Data Strategist · Energy sector**
+**Principal · CTO · Data Strategist · Energy Sector**
 
 `Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI`
 
