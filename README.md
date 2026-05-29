@@ -1,30 +1,82 @@
-### IVIirror
+<div align="center">
 
-Data Strategist. Energy sector. I spend most of my time now building with LLMs, not just analyzing data.
+<a href="https://spearfoundry.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <img alt="SpearFoundry" src="assets/logo-light.png" width="460">
+  </picture>
+</a>
+
+<br>
+
+# IVIirror
+
+**Data Strategist · Energy sector**
+
+`Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI` &nbsp;·&nbsp; `Princeton, NJ`
+
+</div>
+
+---
+
+I spend most of my time now building with LLMs, not just analyzing data.
 
 I don't write every line of code in these projects. Claude Code does a lot of the work. I bring the domain knowledge, the architecture decisions, and the stubbornness to keep going when things break at 2am. Take the repos below with that context.
 
-**What I'm building:**
+<div align="center">
 
-[Sovereign RCM](https://sovereignrcm.com) ([repo](https://github.com/Mirror1023/sov_rcm02)) is an air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-[AssociationPay](https://imtiazhoa.vercel.app) lets homeowners pay HOA dues online. Stripe integration, no account required. Serves 10 communities.
+</div>
 
-[CatGram Agent](https://github.com/Mirror1023/cat_agent) runs [@catmanduig](https://www.instagram.com/catmanduig/) on Instagram. Claude writes the captions and replies to comments. 269+ posts so far, zero manual effort.
+## 🚀 What I'm building
 
-ClinicalTrialOps turns trial protocols and submissions into compliant documents. 2,200+ tests. Not public yet.
+**[Sovereign RCM](https://sovereignrcm.com)** &nbsp;<img src="assets/sovereign-rcm-logo.png" height="20" align="center">&nbsp; · &nbsp;[repo](https://github.com/Mirror1023/sov_rcm02)
+An air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
 
-RizCommerce coordinates 18 AI agents for Amazon seller operations: supplier discovery, margin analysis, demand forecasting, listing generation. Next.js, FastAPI, Temporal. Also not public.
+**[AssociationPay](https://imtiazhoa.vercel.app)**
+Lets homeowners pay HOA dues online. Stripe integration, no account required. Serves 10 communities.
 
-**Home lab:**
+**[CatGram Agent](https://github.com/Mirror1023/cat_agent)**
+Runs [@catmanduig](https://www.instagram.com/catmanduig/) on Instagram. Claude writes the captions and replies to comments. 269+ posts so far, zero manual effort.
 
-DGX Spark (128GB), Minisforum NAS, air-gapped VLANs. Ollama for inference. Grafana and Prometheus for monitoring. Everything in containers.
+**ClinicalTrialOps**
+Turns trial protocols and submissions into compliant documents. 2,200+ tests. Not public yet.
 
-**Older projects:**
+**RizCommerce**
+Coordinates 18 AI agents for Amazon seller operations: supplier discovery, margin analysis, demand forecasting, listing generation. Next.js, FastAPI, Temporal. Also not public.
 
-- [NFL Game Predictor](https://github.com/Mirror1023/NFL_Game_Predictor): classification model for home team wins
-- [Retail Database](https://github.com/Mirror1023/Retail_Database): moved a convenience store off spreadsheets onto PostgreSQL
+## 🖥️ Home lab
 
-**Tools:** Python, SQL, FastAPI, React, Next.js, Docker, PostgreSQL, Ollama, Claude Code
+DGX Spark (128GB), air-gapped VLANs. Ollama for inference. Grafana and Prometheus for monitoring. Everything in containers.
+
+Daily drivers are a Mac Studio (M4) and a MacBook Pro (M5 Pro). Deep expertise with Apple products across the board.
+
+## 📊 By the numbers
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mirror1023&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4A265&icon_color=C4A265&text_color=888888" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirror1023&layout=compact&hide_border=true&bg_color=00000000&title_color=C4A265&text_color=888888" />
+
+<img src="https://streak-stats.demolab.com?user=Mirror1023&hide_border=true&background=00000000&ring=C4A265&fire=C4A265&currStreakLabel=C4A265&sideLabels=888888&dates=888888" />
+
+</div>
+
+## 🗄️ Older projects
+
+- **[NFL Game Predictor](https://github.com/Mirror1023/NFL_Game_Predictor)** &nbsp;— classification model for home team wins
+- **[Retail Database](https://github.com/Mirror1023/Retail_Database)** &nbsp;— moved a convenience store off spreadsheets onto PostgreSQL
+
+## 🎮 Off the clock
 
 Sports, video games, family.
