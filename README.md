@@ -39,7 +39,7 @@ I build with Claude Code in the loop, but the architecture, the domain knowledge
 *Things I've designed and built end to end.*
 
 **[Sovereign RCM](https://sovereignrcm.com)**
-An air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
+An air-gapped medical billing system. Five AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
 
 **[AssociationPay](https://rb-mgt.com)**
 Lets homeowners pay HOA dues online. Stripe integration, no account required. Serves 10 communities.
