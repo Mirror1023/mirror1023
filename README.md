@@ -1,17 +1,10 @@
 <div align="center">
 
-<a href="https://spearfoundry.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-    <img alt="SpearFoundry" src="assets/logo-light.png" width="460">
-  </picture>
-</a>
+# Ghulam Shah
 
-<br>
+**Data Analyst · Analytics Engineer · Applied AI**
 
-**Principal · CTO · Data Strategist · Energy Sector**
-
-`Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI`
+`SQL` &nbsp;·&nbsp; `Snowflake` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI`
 
 </div>
 
@@ -41,9 +34,11 @@ I build with Claude Code in the loop, but the architecture, the domain knowledge
 
 </div>
 
-## 🚀 What I'm building
+## 🚀 Selected work
 
-**[Sovereign RCM](https://sovereignrcm.com)** &nbsp;·&nbsp; [repo](https://github.com/Mirror1023/sov_rcm02)
+*Things I've designed and built end to end.*
+
+**[Sovereign RCM](https://sovereignrcm.com)**
 An air-gapped medical billing system. Four AI agents read clinical charts, check payer rules, and flag denial risks. Runs on local hardware only. Patient data never touches the internet.
 
 **[AssociationPay](https://rb-mgt.com)**
@@ -79,8 +74,8 @@ Daily drivers are a Mac Studio (M4) and a MacBook Pro (M5 Pro). Deep expertise w
 
 ## 🗄️ Older projects
 
-- **[NFL Game Predictor](https://github.com/Mirror1023/NFL_Game_Predictor)** &nbsp;— classification model for home team wins
-- **[Retail Database](https://github.com/Mirror1023/Retail_Database)** &nbsp;— moved a convenience store off spreadsheets onto PostgreSQL
+- **[NFL Game Predictor](https://github.com/Mirror1023/NFL_Game_Predictor)**: classification model for home team wins
+- **[Retail Database](https://github.com/Mirror1023/Retail_Database)**: moved a convenience store off spreadsheets onto PostgreSQL
 
 ## 🎮 Off the clock
 
