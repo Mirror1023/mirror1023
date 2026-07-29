@@ -2,7 +2,7 @@
 
 # Ghulam Shah
 
-**Data Analyst · Analytics Engineer · Applied AI**
+**Data Strategist · Analytics Engineer · Applied AI**
 
 `SQL` &nbsp;·&nbsp; `Snowflake` &nbsp;·&nbsp; `Python` &nbsp;·&nbsp; `LLMs` &nbsp;·&nbsp; `Local-first AI`
 
