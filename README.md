@@ -12,7 +12,7 @@
 
 I spend most of my time now building with LLMs, not just analyzing data.
 
-I build with Claude Code in the loop, but the architecture, the domain knowledge, and the calls that decide whether a system actually works are mine. So is the stubbornness to keep going when things break at 2am.
+I build with frontier/local models in the loop, but the architecture, the domain knowledge, and the calls that decide whether a system actually works are mine. So is the stubbornness to keep going when things break at 2am.
 
 <div align="center">
 
